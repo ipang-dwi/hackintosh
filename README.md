@@ -1,0 +1,2 @@
+# hackintosh
+just efi lib
